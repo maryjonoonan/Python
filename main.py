@@ -1,4 +1,4 @@
-import DefineFunctions
+import DefineFunctions.
 
 
 def main():
@@ -9,3 +9,11 @@ def main():
     DefineFunctions.PrintEachLoopItemDoubled()
 
 main()
+
+LettersAre()
+EveryLetter()
+
+Iterate()
+
+
+
